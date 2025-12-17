@@ -1,0 +1,46 @@
+/* ================= GLOBAL DARK MODE ================= */
+
+.dark{
+  background:#0d1816 !important;
+  color:#eafff7 !important;
+}
+
+/* all texts */
+.dark h1,
+.dark h2,
+.dark h3,
+.dark p,
+.dark span,
+.dark li{
+  color:#caffef !important;
+}
+
+/* dashboard cards */
+.dark .indi_card{
+  background:rgba(14,24,22,0.75) !important;
+  border:1px solid #00d4a9 !important;
+  color:#d6fff5 !important;
+}
+
+/* home feature blocks */
+.dark .fcard{
+  background:#10211d;
+  border-color:#00f0c2;
+  color:#b4ffee;
+}
+
+/* container backgrounds */
+.dark .dash_container,
+.dark .home_container,
+.dark .scheme_container,
+.dark .data_container{
+  background:#0d1816 !important;
+}
+
+/* chatbot + form styling */
+.dark input,
+.dark textarea{
+  background:#0f1e1a;
+  color:white;
+  border:1px solid #00d6ad;
+}
