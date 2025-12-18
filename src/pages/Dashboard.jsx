@@ -1,6 +1,6 @@
 import { useState } from "react";
 import IndicatorCard from "../ui/IndicatorCard";
-import "./dashboardUI.css";   // this must match file name
+import "./DashboardUI.css";   // this must match file name
 
 export default function Dashboard(){
 
